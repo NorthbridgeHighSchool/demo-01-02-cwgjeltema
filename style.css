@@ -1,3 +1,15 @@
 html {
-  background-color: rgb(218, 167, 167);
+  background-color: rgb(67, 30, 235);
+}
+h1 {
+  color:rgb(247, 244, 240);
+}
+p{
+  font-style:italic;
+}
+p{
+  border:1px solid white;
+}
+p{
+  font-variant: small-caps;
 }
